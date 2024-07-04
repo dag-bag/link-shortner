@@ -1,0 +1,16 @@
+{
+  "name": "link-shortner",
+  "version": "1.0.0",
+  "description": "backend-for-link-shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node.js",
+    "link-shorter"
+  ],
+  "author": "virender kumar",
+  "license": "ISC"
+}
